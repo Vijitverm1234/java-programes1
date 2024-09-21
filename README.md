@@ -46,5 +46,5 @@ To get started with Java, follow these steps:
 
 ## Author
 
--Vijit Verma
+- Vijit Verma
 
