@@ -44,11 +44,7 @@ To get started with Java, follow these steps:
 - JDK
 - IDE (e.g., IntelliJ, Eclipse)
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Author
 
-Your Name
+-Vijit Verma
 
